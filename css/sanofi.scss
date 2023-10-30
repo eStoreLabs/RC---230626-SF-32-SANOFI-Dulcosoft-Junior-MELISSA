@@ -697,7 +697,7 @@ $fw-black: 900;
     &__box {
       @media (min-width: 768px) {
         display: grid;
-        grid-template-rows: 180px 125px 1fr;
+        grid-template-rows: 140px 104px 1fr;
       }
     }
     &__text1 {
@@ -720,7 +720,7 @@ $fw-black: 900;
       margin: 0 auto;
 
       @media (min-width: 768px) {
-        font-size: calc(1.2 * $fs-base);
+        font-size: calc(1.1 * $fs-base);
       }
 
     }
